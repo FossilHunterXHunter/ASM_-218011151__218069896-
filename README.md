@@ -1,4 +1,4 @@
-# ASM_-218011151__218069896-
+# ASM_-218011151
 Academic Monitoring System
 
 
